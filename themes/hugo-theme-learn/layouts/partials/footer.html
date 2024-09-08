@@ -1,0 +1,104 @@
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT2Q7FB2"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+{{ if .Params.chapter }}
+            </div> <!-- end chapter-->
+        {{ end }}
+        </div>
+        {{ partial "custom-comments.html" . }}
+      </div>
+
+    <div id="navigation">
+        <!-- Next prev page -->
+        {{ $currentNode := . }}
+
+        {{ template "menu-nextprev" dict "menu" .Site.Home "currentnode" $currentNode }}
+
+        {{ define "menu-nextprev" }}
+            {{$currentNode := .currentnode }}
+            {{ if ne .menu.Params.hidden true}}
+                {{if hasPrefix $currentNode.RelPermalink .menu.RelPermalink }}
+                    {{ $currentNode.Scratch.Set "NextPageOK" "OK" }}
+                    {{ $currentNode.Scratch.Set "prevPage" ($currentNode.Scratch.Get "prevPageTmp") }}
+                {{else}}
+                    {{if eq ($currentNode.Scratch.Get "NextPageOK") "OK"}}
+                        {{ $currentNode.Scratch.Set "NextPageOK" nil }}
+                        {{ $currentNode.Scratch.Set "nextPage" .menu }}
+                    {{end}}
+                {{end}}
+                {{ $currentNode.Scratch.Set "prevPageTmp" .menu }}
+
+                    {{ $currentNode.Scratch.Set "pages" .menu.Pages }}
+                    {{ if .menu.IsHome}}
+                        {{ $currentNode.Scratch.Set "pages" .menu.Sections }}
+                    {{ else if .menu.Sections}}
+                        {{ $currentNode.Scratch.Set "pages" (.menu.Pages | union .menu.Sections) }}
+                    {{end}}
+                    {{ $pages := ($currentNode.Scratch.Get "pages") }}
+
+                    {{ range $pages.ByWeight  }}
+                        {{ template "menu-nextprev" dict "menu" . "currentnode" $currentNode }}
+                    {{end}}
+            {{ end }}
+        {{ end }}
+
+
+	 {{$showPrevNext := (and (not .Params.disableNextPrev) (not .Site.Params.disableNextPrev))}}
+	 {{if $showPrevNext}}
+		{{with ($.Scratch.Get "prevPage")}}
+			<a class="nav nav-prev" href="{{.RelPermalink}}" title="{{.Title}}"> <i class="fa fa-chevron-left"></i></a>
+		{{end}}
+		{{with ($.Scratch.Get "nextPage")}}
+			<a class="nav nav-next" href="{{.RelPermalink}}" title="{{.Title}}" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		{{end}}
+	{{end}}
+    </div>
+
+    </section>
+
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="{{"js/clipboard.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/perfect-scrollbar.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/perfect-scrollbar.jquery.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/jquery.sticky.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/featherlight.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/highlight.pack.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="{{"js/modernizr.custom-3.6.0.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/learn.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/hugo-learn.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+
+    <link href="{{"mermaid/mermaid.css" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet" />
+    <script src="{{"mermaid/mermaid.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    {{ partial "custom-footer.html" . }}
+        <script type="module">
+          // Import the functions you need from the SDKs you need
+          import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
+          import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-analytics.js";
+          // TODO: Add SDKs for Firebase products that you want to use
+          // https://firebase.google.com/docs/web/setup#available-libraries
+
+          // Your web app's Firebase configuration
+          // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+          const firebaseConfig = {
+            apiKey: "AIzaSyBk4I0jICesRliX2d-MkhqQrrxkaq1bqZM",
+            authDomain: "aws-hands-on-da9b8.firebaseapp.com",
+            projectId: "aws-hands-on-da9b8",
+            storageBucket: "aws-hands-on-da9b8.appspot.com",
+            messagingSenderId: "99697369891",
+            appId: "1:99697369891:web:5c0dc4e7dbf53534a5e296",
+            measurementId: "G-74VPJT2D9C"
+          };
+
+          // Initialize Firebase
+          const app = initializeApp(firebaseConfig);
+          const analytics = getAnalytics(app);
+        </script>
+  </body>
+</html>
