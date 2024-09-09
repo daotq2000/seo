@@ -1,12 +1,12 @@
 ---
 title : "1. Keyword, Best Tools & Strategies Optimize SEO"
-description: "Discover how to master keyword research with top tools like Google Keyword Planner, Ahrefs, and SEMrush. Learn what makes the best keyword research tool, how they work, and build an effective keyword strategy for SEO success."
+description: "Discover how to master keyword research with top tools like Google Keyword Planner, Ahrefs, and SEMrush. Learn what makes the best keyword research tool."
 date : "`r Sys.Date()`"
 weight : 1
 chapter : false
-image: "images/1-what_is_seo/what_is_seo.jpg"
+image: "images/introduction-to-keyword-research/introduction-to-keyword-research.png"
 ---
-![seo_basic_to_advance](/images/seo_basic_to_advance.jpg)
+![introduction-to-keyword-research.png](/images/introduction-to-keyword-research/introduction-to-keyword-research.png)
 
 # Introduction to Keyword Research
 
