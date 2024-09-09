@@ -6,8 +6,7 @@ weight : 2
 chapter : false
 image: "images/how-do-search-engines-work/how-do-search-engines-work.png"
 ---
-# How Do Search Engines Work? Understanding the Basics of Crawling, Indexing, and Ranking
-
+![how-do-search-engines-work.png](/images/how-do-search-engines-work/how-do-search-engines-work.png)
 In today’s digital age, search engines play a crucial role in how we access information on the internet. Whether you're searching for a recipe, a news article, or a local business, search engines like **Google, Bing,** and **Yahoo** are your go-to tools. But have you ever wondered, **"How do search engines work?"** Understanding this process is key to mastering Search Engine Optimization (SEO) and improving your website's visibility. In this post, we will dive deep into the basics of how search engines operate, covering the core processes of **crawling, indexing,** and **ranking**.
 
 ## 1. What Are Search Engines?

@@ -6,8 +6,7 @@ weight : 1
 chapter : false
 image: "images/1-what_is_seo/what_is_seo.jpg"
 ---
-![seo_basic_to_advance](/images/seo_basic_to_advance.jpg)
-
+![what_is_seo.jpg](/images/1-what_is_seo/what_is_seo.jpg)
 In the digital age, the success of a website hinges on its visibility. Search Engine Optimization (SEO) is a critical aspect of digital marketing that focuses on increasing a website’s visibility on search engines like Google, Bing, and Yahoo. But what exactly is SEO, why is it so important, and how does it impact your website's visibility? In this post, we’ll delve into these questions to help you gain a comprehensive understanding of SEO and how to leverage it to boost your online presence.
 
 ## What is SEO?
