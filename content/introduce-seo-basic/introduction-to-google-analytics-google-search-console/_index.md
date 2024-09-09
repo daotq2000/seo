@@ -1,5 +1,5 @@
 ---
-title : "4. Learn the basics of GA4, Google Analytics, and Google Search Console"
+title : "4. Learn Basics of Google Analytics, and Google Search Console"
 description: "Learn the basics of GA4, Google Analytics, and Google Search Console. Understand essential metrics to optimize your website’s performance using Google Analytics 4."
 date : "`r Sys.Date()`"
 weight : 4
