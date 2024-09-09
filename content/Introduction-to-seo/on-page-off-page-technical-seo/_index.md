@@ -1,5 +1,5 @@
 ---
-title : "Introduction to Types of SEO: On-Page, Off-Page, and Technical SEO"
+title : "3. Introduction to Types of SEO: On-Page, Off-Page, and Technical SEO"
 description: "Discover the three main types of SEO: On-page SEO, Off-page SEO, and Technical SEO. Learn how to optimize your website for better visibility and ranking."
 date : "`r Sys.Date()`"
 weight : 2

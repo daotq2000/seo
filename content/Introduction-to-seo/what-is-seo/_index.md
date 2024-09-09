@@ -1,5 +1,5 @@
 ---
-title : "What is SEO? Understanding the Basics and Importance of Search Engine Optimization"
+title : "1. What is SEO? Understanding the Basics and Importance of Search Engine Optimization"
 description: "Learn SEO the basics and importance of Search Engine Optimization to boost your website's visibility, attract more traffic, optimization"
 date : "`r Sys.Date()`"
 weight : 1

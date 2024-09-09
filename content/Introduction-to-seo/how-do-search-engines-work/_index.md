@@ -1,5 +1,5 @@
 ---
-title : "How Do Search Engines Work? Understanding the Basics of Crawling, Indexing, and Ranking"
+title : "2. How Do Search Engines Work? Understanding the Basics of Crawling, Indexing, and Ranking"
 description: "How do search engines work? Discover the basics of crawling, indexing, and ranking to understand how search engines like Google and Bing find and rank websites."
 date : "`r Sys.Date()`"
 weight : 2
