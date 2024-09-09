@@ -2,7 +2,7 @@
 title : "1. Find best keywords with as Advanced Strategy"
 description: "Explore advanced SEO techniques with our guide, including advanced SEO courses, training, and advanced technical SEO strategies to boost your site's performance"
 date : "`r Sys.Date()`"
-weight : 4
+weight : 1
 chapter : false
 image: "images/advanced-keyword-strategy/Advanced-Keyword-Strategy.jpg"
 ---
