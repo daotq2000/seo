@@ -2,7 +2,7 @@
 title : "5. Developing an Effective SEO Strategy: A Comprehensive Guide"
 description: "Learn essential SEO optimization strategies, including SEO content strategy, and develop an effective SEO strategy to enhance your website's visibility and performance."
 date : "`r Sys.Date()`"
-weight : 2
+weight : 5
 chapter : false
 image: "images/seo-optimization/seo-optimization.jpg"
 ---
