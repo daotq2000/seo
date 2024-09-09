@@ -4,9 +4,9 @@ description: "Learn how to master writing for SEO optimization with expert tips 
 date : "`r Sys.Date()`"
 weight : 2
 chapter : false
-image: "/images/writing-for-seo-optimization/writing-for-seo-optimization.webp"
+image: "/images/writing-for-seo-optimization/writing-for-seo-optimization.jpg"
 ---
-![writing-for-seo-optimization.webp](/images/writing-for-seo-optimization/writing-for-seo-optimization.webp)
+![writing-for-seo-optimization.webp](/images/writing-for-seo-optimization/writing-for-seo-optimization.jpg)
 
 # On-Page SEO Fundamentals: Optimizing Page Titles, Meta Descriptions, Headers, Content, Images, and Internal Linking
 
