@@ -1,5 +1,5 @@
 ---
-title : "1. Keyword Research 101: Best Tools & Strategies for Effective SEO"
+title : "1. Keyword, Best Tools & Strategies Optimize SEO"
 description: "Discover how to master keyword research with top tools like Google Keyword Planner, Ahrefs, and SEMrush. Learn what makes the best keyword research tool, how they work, and build an effective keyword strategy for SEO success."
 date : "`r Sys.Date()`"
 weight : 1
