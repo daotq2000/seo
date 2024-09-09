@@ -1,10 +1,10 @@
 ---
-title : "What is SEO"
-description: "Understanding the fundamentals of SEO, its importance, and how it impacts website visibility."
+title : "What is SEO? Understanding the Basics and Importance of Search Engine Optimization"
+description: "What is SEO? Learn the basics of SEO, including what is SEO marketing, what is an SEO, and how SEO optimization boosts website visibility and performance."
 date : "`r Sys.Date()`"
 weight : 1
 chapter : false
-image: "/images/seo_basic_to_advance.jpg"
+image: "images/1-what_is_seo/what_is_seo.jpg"
 ---
 ![seo_basic_to_advance](/images/seo_basic_to_advance.jpg)
 
