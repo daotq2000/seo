@@ -1,5 +1,5 @@
 ---
-title : "3. SEO Platforms: Optimizing for YouTube, App Store SEO, and Voice Search Optimization"
+title : "4. SEO Platforms: Optimizing for YouTube, App Store SEO, and Voice Search Optimization"
 description: "Learn effective strategies for optimizing your content across platforms, including YouTube, app store SEO, and voice search optimization, to boost visibility and engagement."
 date : "`r Sys.Date()`"
 weight : 4
