@@ -1,5 +1,5 @@
 ---
-title : "Introduction to SEO: Key Sections You Need to Know"
+title : "1. Introduction to SEO: Key Sections You Need to Know"
 description: "What is SEO? Learn the basics of SEO, seo intro including what is SEO marketing, what is an SEO, and how SEO optimization boosts website visibility and performance."
 date : "`r Sys.Date()`"
 weight : 1
