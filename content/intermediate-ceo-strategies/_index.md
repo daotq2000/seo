@@ -1,8 +1,8 @@
 ---
-title : "1. Intermediate SEO Strategies:Technical SEO, Link Building, Local SEO,SEO tools"
+title : "3. Intermediate SEO Strategies:Technical SEO, Link Building, Local SEO,SEO tools"
 description: "Learn intermediate SEO strategies, including Technical SEO, Link Building, Local SEO, and using essential SEO tools and platforms to improve search results."
 date : "`r Sys.Date()`"
-weight : 1
+weight : 3
 chapter : false
 image: "images/intermediate-ceo-strategies/Advance-SEO-Strategy.png"
 ---
