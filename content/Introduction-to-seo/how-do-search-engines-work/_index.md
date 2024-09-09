@@ -114,5 +114,5 @@ Start optimizing your site today by focusing on content quality, user experience
 
 **Read more:** 
 
-+ [What is SEO? ? Understanding the Basics and Importance of Search Engine Optimization](../what-is-seo/_index.md)
 + [Learn SEO from Basics to Advanced,Techniques and Strategies](../_index.md)
++ [What is SEO? ? Understanding the Basics and Importance of Search Engine Optimization](../what-is-seo/_index.md)
