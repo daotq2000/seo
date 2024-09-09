@@ -1,6 +1,6 @@
 ---
 title : "2. SEO Basics: A Comprehensive Guide to Mastering SEO Optimization"
-description: "WLearn the fundamentals of SEO optimization basics and discover how to do basic SEO of your website. Start your journey with this guide on how to learn SEO basics effectively."
+description: "Learn the fundamentals of SEO optimization basics and discover how to do basic SEO of your website. Start your journey with this guide on how to learn SEO basics effectively."
 date : "`r Sys.Date()`"
 weight : 2
 chapter : false
