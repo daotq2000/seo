@@ -82,3 +82,7 @@ By mastering SEO, you can unlock the potential of your website, attract more vis
 ---
 
 We hope this guide provides a valuable starting point for your SEO learning journey. For more detailed information and resources, explore our full series on SEO, designed to help you advance from basic to expert level. Happy optimizing!
+
+[1. What is SEO? Understanding the Basics and Importance of Search Engine Optimization](Introduction-to-seo/what-is-seo/_index.md)
+[2. How Do Search Engines Work? Understanding the Basics of Crawling, Indexing, and Ranking](Introduction-to-seo/on-page-off-page-technical-seo/_index.md)
+[3. Introduction to Types of SEO: On-Page, Off-Page, and Technical SEO](Introduction-to-seo/how-do-search-engines-work/_index.md)
