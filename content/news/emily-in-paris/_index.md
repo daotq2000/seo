@@ -2,7 +2,7 @@
 title : "Emily in Paris: A Season 3 Recap"
 description: "Emily in Paris returned for its third season with more Parisian drama, fashion, and romance. The series, starring Lily Collins as the American"
 date : "`r Sys.Date()`"
-weight : 1
+weight : 2
 chapter : false
 image: "images/news/emily-in-paris.jpg"
 ---
