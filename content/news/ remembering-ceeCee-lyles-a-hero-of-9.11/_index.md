@@ -21,6 +21,7 @@ CeeCee was known for her vibrant personality, warm smile, and commitment to her 
 On the morning of September 11, 2001, CeeCee Lyles was on duty as a flight attendant on United Airlines Flight 93, which departed from Newark, New Jersey, bound for San Francisco, California. The flight was hijacked by terrorists as part of the coordinated attacks that day.
 
 As the hijacking unfolded, passengers and crew members, including CeeCee, began to understand the gravity of the situation. Demonstrating remarkable courage, CeeCee managed to make two phone calls from the plane to her husband and other family members. During these calls, she calmly explained the situation and expressed her love for her family, displaying incredible strength and composure under unimaginable circumstances.
+![Remembering CeeCee Lyles: A Hero of 9/11](/images/news/ceeCee-lyles-a-hero-of-9.11.jpg)
 
 ## The Legacy of Flight 93
 
