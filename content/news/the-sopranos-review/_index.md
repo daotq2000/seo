@@ -1,6 +1,6 @@
 ---
 title : "The Sopranos review"
-description: "Tony Soprano, an Italian-American mafia head based in New Jersey, struggles to manage his family and criminal life and confides his affairs to his psychiatrist Jennifer Melfi"
+description: "Dive into the world of Tony Soprano and his mob family in this gripping review of The Sopranos. Explore the drama, dark humor, and compelling characters that made TV history."
 date : "`r Sys.Date()`"
 weight : 2
 chapter : false
