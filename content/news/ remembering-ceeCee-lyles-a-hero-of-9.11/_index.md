@@ -2,7 +2,7 @@
 title : "Remembering CeeCee Lyles: A Hero of 9/11"
 description: "Learn about CeeCee Lyles, a flight attendant and 9/11 hero, who showed extraordinary courage on United Flight 93. Honor her legacy and bravery."
 date : "`r Sys.Date()`"
-weight : 2
+weight : 1
 chapter : false
 image: "images/news/remembering-ceeCee-lyles-a-hero-of-9.11.jpg"
 ---

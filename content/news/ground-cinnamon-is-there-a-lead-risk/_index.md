@@ -2,7 +2,7 @@
 title : "Ground Cinnamon: Is There a Lead Risk"
 description: "Learn about the potential risk of lead contamination in ground cinnamon, how it occurs, and practical tips to minimize exposure. Stay informed to enjoy this popular spice safely."
 date : "`r Sys.Date()`"
-weight : 3
+weight : 4
 chapter : false
 image: "images/news/ground-cinnamon-is-there-a-lead-risk.jpeg"
 ---

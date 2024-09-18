@@ -2,7 +2,7 @@
 title : "The Sopranos review"
 description: "Dive into the world of Tony Soprano and his mob family in this gripping review of The Sopranos. Explore the drama, dark humor, and compelling characters that made TV history."
 date : "`r Sys.Date()`"
-weight : 2
+weight : 5
 chapter : false
 image: "images/news/The-Sopranos-review.jpg"
 ---

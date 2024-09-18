@@ -2,7 +2,7 @@
 title : "Tua Tagovailoa: The Rising Star of the NFL"
 description: "Tagovailoa was diagnosed with a concussion and ruled out from returning after exiting Thursday's game against the Bills"
 date : "`r Sys.Date()`"
-weight : 1
+weight : 6
 chapter : false
 image: "images/news/TuaTagovailoa.jpg"
 ---
