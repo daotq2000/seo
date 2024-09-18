@@ -4,7 +4,7 @@ description: "Discover Southwind High School in Memphis, TN, known for its stron
 date : "`r Sys.Date()`"
 weight : 5
 chapter : false
-image: "images/news/The-Sopranos-review.jpg"
+image: "images/southwind-high-school/southwind-high-school.jpg"
 ---
 ![southwind high school](/images/southwind-high-school/southwind-high-school.jpg)
 # Southwind High School: A Hub of Excellence in Education
