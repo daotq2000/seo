@@ -9,7 +9,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "workshop"
+  themeVariant = "blue"
   # Git hub repo link
   editURL = ""
   description = "The cloud journey 100 Days"
@@ -20,7 +20,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Learn Amazon Web Service in 100Days With Me."
+title = "Learn SEO from basics to advanced"
 weight = 1
 languageName = "English"
 
@@ -30,4 +30,4 @@ canonifyURLs = true
   changeFreq = ''
   disable = false
   filename = 'sitemap.xml'
-  priority = -1
+  priority = 1
