@@ -7,7 +7,6 @@ chapter : false
 image: "images/southwind-high-school/southwind-high-school.jpg"
 ---
 ![southwind high school](/images/southwind-high-school/southwind-high-school.jpg)
-# Southwind High School: A Hub of Excellence in Education
 
 Southwind High School, located in Memphis, Tennessee, is a prominent public high school recognized for its commitment to academic success, student development, and community engagement. The school is part of the Shelby County Schools system, serving students from diverse backgrounds with a wide range of programs that cater to both academic and extracurricular interests.
 
