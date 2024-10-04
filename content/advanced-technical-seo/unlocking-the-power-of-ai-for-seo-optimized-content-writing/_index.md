@@ -1,6 +1,6 @@
 ---
 title : "7. Unlocking the Power of AI for SEO Optimized Content Writing"
-description: "Learn effective strategies for optimizing your content across platforms, including YouTube, app store SEO, and voice search optimization, to boost visibility and engagement."
+description: " **SEO optimized content writing AI** is reshaping how businesses create content that ranks high on search engines"
 date : "`r Sys.Date()`"
 weight : 7
 chapter : false
