@@ -48,8 +48,14 @@
       {{ end }}
     </style>
     {{ partial "custom-header.html" . }}
+    <script async custom-element="amp-auto-ads"
+            src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+    </script>
     </head>
   <body class="" data-url="{{ .RelPermalink }}">
+  <amp-auto-ads type="adsense"
+                data-ad-client="ca-pub-1014651997538036">
+  </amp-auto-ads>
     {{ partial "menu.html" . }}
         <section id="body">
         <div id="overlay"></div>
