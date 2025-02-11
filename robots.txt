@@ -1,0 +1,17 @@
+User-agent: *
+Disallow:
+
+Disallow: /private/
+Disallow: /temp/
+Disallow: /cgi-bin/
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: BadBot
+Disallow: /
+
+Sitemap: https://auto.io.vn/en/sitemap.xml
