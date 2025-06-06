@@ -1,0 +1,46 @@
+.elementor-499 .elementor-element.elementor-element-a7cb0c1 .icon{
+	display: none;
+}.elementor-499 .elementor-element.elementor-element-1593775 .icon{
+		display: none;
+}.elementor-testimonial-item-wrapper .layout-style-1 .icon i{
+		display: none;
+}.elementor-10290 .elementor-element.elementor-element-5ae3460a .icon{
+	display: none;
+}.wpcf7 form.sent .wpcf7-response-output {
+    border-color: #46b450;
+    color: white;
+}.wpcf7-form input, .wpcf7-form textarea, .wpcf7-form select, .wpcf7-form select:not([size]):not([multiple]) {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+    background-color: transparent;
+    border-color: var(--border);
+    border-width: 4px;
+    border-radius: 0px;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+}.wpcf7-form input, .wpcf7-form textarea, .wpcf7-form select, .wpcf7-form select:not([size]):not([multiple]) {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    color: #231e1e;
+    background-color: transparent;
+    border-color: var(--border);
+    border-width: 4px;
+    border-radius: 0px;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+}.wpcf7-form input:focus, .wpcf7-form textarea:focus, .wpcf7-form select:focus, .wpcf7-form select:not([size]):not([multiple]):focus{
+	color:black;
+}.wpcf7 form.sent .wpcf7-response-output {
+    border-color: #46b450;
+    color: black;
+}
+.elementor-121 .elementor-element.elementor-element-c7b39ff .ha-navigation-burger-menu .ha-nav-humberger-wrapper .ha-menu-toggler {
+  font-size:22px;
+  border-width:0px;
+  border-radius:5px;
+  color:#7a7a7a;
+  border-color:#7a7a7a;
+}
